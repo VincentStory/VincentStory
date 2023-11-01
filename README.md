@@ -1,7 +1,5 @@
 ## 欢迎来访我的主页
 
-<img src="https://komarev.com/ghpvc/?username=donkingliang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-
 ## 个人简介
 
 </br>
@@ -29,6 +27,4 @@
 <img height='150' src="https://github-readme-stats.vercel.app/api?username=donkingliang&include_all_commits=true&disable_animations=true&theme=cobalt" align="center" />
 </div> 
 
-
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=VincentStory)]()
 
